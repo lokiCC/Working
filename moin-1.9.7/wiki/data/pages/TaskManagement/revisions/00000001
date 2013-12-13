@@ -1,0 +1,8 @@
+= Task Management =
+
+== Built in recognition of #TODO tags ==
+ * Use the built in text finding macro
+ * clone built in macro then change to use the clone
+ * start trying to modify the clone to give it some additional features.
+
+<<FullSearch("#TODO")>>

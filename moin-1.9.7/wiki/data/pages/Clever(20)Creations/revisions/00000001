@@ -1,0 +1,30 @@
+#format wiki
+#language en
+
+= Clever Creations =
+Is the organization responsible for building and maintaining this project.
+
+Table of contents:
+<<TableOfContents()>>
+
+== Main Project ==
+At this point Wednesday, September 4, 2013 the project does not have a definite name. It's identity is comprised of the increasing number of notes, goals and tasks and the shadowy form that lives in my imagination. The main project is the creation of a note application that will attempt to function as a research tool, a writing companion, a project warehouse and etc. In broad terms the goal is to create a powerful tool for artist and scholar alike. 
+
+=== General Summary ===
+This will be a warehouse of ideas. The project's goals are still being defined. This project is a living creation that will change as it is built. The main project is comprised of a growing list of goals and features that will need to be created and integrated. 
+
+=== The Core ===
+This wiki serves as the foundation for the project.
+
+==== Planned Customization ====
+ * Additional markup 
+ * Syntax Coloring
+ * An interactive syntax key
+
+=== Features (Objectives) ===
+ * 
+
+== My Notes ==
+ * [[The Perfect Notebook]]
+ * [[Day One]]
+ * [[It Begins]]

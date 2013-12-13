@@ -1,0 +1,42 @@
+#format wiki
+#language en
+
+= Clever Creations =
+Is the organization responsible for building and maintaining this project.
+
+Table of contents:
+<<TableOfContents()>>
+
+== Main Project ==
+At this point Wednesday, September 4, 2013 the project does not have a definite name. It's identity is comprised of the increasing number of notes, goals and tasks and the shadowy form that lives in my imagination. The main project is the creation of a note application that will attempt to function as a research tool, a writing companion, a project warehouse and etc. In broad terms the goal is to create a powerful tool for artist and scholar alike. 
+
+=== General Summary ===
+This will be a warehouse of ideas. The project's goals are still being defined. This project is a living creation that will change as it is built. The main project is comprised of a growing list of goals and features that will need to be created and integrated. 
+
+=== The Core ===
+This wiki serves as the foundation for the project.
+
+==== Planned Customization ====
+ * Additional markup 
+ * Syntax Coloring
+ * An interactive syntax key
+
+=== Features (Objectives) ===
+ * 
+
+=== Project Notes ===
+
+==== The Perfect Notebook ====
+My perfect note taking application:
+
+It needs to have a minimal appearance. It can’t appear too bulky or confusing. There needs to be a clean interface and simple setup that allows the user to jump right in. It needs to have a way of connecting notes automatically to one another an expansion of the wiki links feature. It needs it’s own syntax that can be used to add color and on the fly formatting. Uses a search bar to create new notes, like Notational Velocity. When a note is linked to another note, the other note automatically has the link appended in a footnote type section.
+
+Advanced Features:
+When a new note is created with other notes matching the search, there will be an option to append a link to the new note to user selected notes. 
+
+
+== Auxiliary Projects ==
+Some projects are directly related to the main project, while others may seemingly have no correlation at all. The organic nature of my main project relies on this. By including any and all types of side projects the main project will develop in an unforeseen ways. It is my attempt at random mutation.
+
+|| Project Name || Description ||
+|| [[Under Lock and Key]] || Create a new journal entry every day. The entries can be about anything and currently do not have a word count goal, although a minimum word count will likely be added. ||

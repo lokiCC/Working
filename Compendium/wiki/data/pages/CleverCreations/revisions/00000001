@@ -1,0 +1,6 @@
+#acl Project/AdminGroup:read,write,delete,revert
+#master-page:Unknown-Page
+#master-date:Unknown-Date
+#format wiki
+#language en
+ * Loki
